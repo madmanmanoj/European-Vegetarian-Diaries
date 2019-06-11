@@ -1,0 +1,21 @@
+.card {
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0px 12px 24px rgba(0,0,0,0.2);
+  border-radius: 6px;
+  margin: 12px 0px;
+}
+
+.card img {
+  width: 180px;
+  border-radius: 6px;
+}
+
+.card h2 {
+  flex-grow: 1;
+  padding-left: 24px;
+  font-size: 24px;
+}
+
